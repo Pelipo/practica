@@ -22,3 +22,8 @@ public class GitAux {
         System.out.println("Aqui escribimos todos");
     }
 }
+// comentario incluido
+
+/* 
+das
+*/
